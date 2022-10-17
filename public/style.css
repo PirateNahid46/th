@@ -9,7 +9,15 @@
 
 body {
   margin: 20px;
+  color: aliceblue;
   background-color:#000000;
+}
+h3{
+  font-family: mm;
+}
+
+.headings{
+  font-family: mm;
 }
 
 .intro{
