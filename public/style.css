@@ -33,3 +33,16 @@ h1{
   text-align: center;
   font-family: mm;
 }
+.tbz{
+  width: 500px;
+}
+#hiddenTBZ{
+  display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .tbz{
+    width: 80%;
+  }
+  
+}
